@@ -1,0 +1,17 @@
+{
+  "name": "mpris-next",
+  "version": "1.0.0",
+  "description": "A nodeJS libary for MPRIS",
+  "main": "mpris.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "keywords": [
+    "mpris"
+  ],
+  "author": "Ioan Loosley",
+  "license": "MIT",
+  "dependencies": {
+    "dbus-next": "^0.6.1"
+  }
+}
