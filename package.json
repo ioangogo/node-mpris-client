@@ -1,8 +1,8 @@
 {
-  "name": "mpris-next",
+  "name": "mpris-client",
   "version": "1.0.0",
-  "description": "A nodeJS libary for MPRIS",
-  "main": "mpris.js",
+  "description": "A nodeJS client libary for MPRIS",
+  "main": "index.js",
   "scripts": {
     "test": "n/a"
   },
