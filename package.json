@@ -12,6 +12,6 @@
   "author": "Ioan Loosley",
   "license": "MIT",
   "dependencies": {
-    "dbus-next": "^0.6.1"
+    "dbus-next": "^0.7.1"
   }
 }
