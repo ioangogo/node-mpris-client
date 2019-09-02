@@ -13,8 +13,7 @@ class Player{
         this.name="";
         this.playerObject = obj;
         this.playerInterface = obj.getInterface(MPRIS_IFACE);
-        this.playerProps = obj.getInterface(PROPERTIES_IFACE);
-        this.metadata = await this.playerProps.Get(MPRIS_IFACE, 'Metadata');
+        this.playerProps
     }
 
     Play(){
